@@ -12,6 +12,7 @@ I'm a Mathematican/Computer Scientist and Full Stack Software Engineer who wants
 - Postgres
 - React with Redux
 - Tensorflow
+- Docker
 
 Not only do I love designing scalable, reliable, and functional software;
 
