@@ -1,8 +1,6 @@
-
-
 # Hello 👋
 
-Thanks for checking out my github profile!
+My name is Rany, thanks for checking out my github profile!
 
 I'm a Mathematican/Computer Scientist and Full Stack Software Engineer who wants to be a Full Stack Computer Scientist 😀.
 
