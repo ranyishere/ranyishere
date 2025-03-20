@@ -2,8 +2,13 @@
 
 My name is Rany, thanks for checking out my github profile!
 
-I'm a Mathematican/Computer Scientist 😀.
+I love math and computer science, I studied Pure Math during my undergrad and I am always in awe of its beauty.
+
+I am currently at Computer Science PhD student at the University of California, Irvine
 
 ## Some general questions I am trying to answer:
-- How can we abuse AI/ML systems to make better models?
-- How can I use AI/ML systems to make people more productive?
+- How can we use methods from complex systems to make better AI/ML models?
+- How can I use AI/ML systems to understand complex systems
+- What is computation really at its core?
+- How can we understand emergent phenomena and control it?
+- How can we use deep math to build deep theory and illuminate AI/computer systems?
