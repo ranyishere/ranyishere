@@ -4,7 +4,7 @@ My name is Rany, thanks for checking out my github profile!
 
 I love math and computer science, I studied Pure Math during my undergrad and I am always in awe of its beauty.
 
-I am currently at Computer Science PhD student at the University of California, Irvine
+I am currently a Computer Science PhD student at the University of California, Irvine
 
 ## Some general questions I am trying to answer:
 - How can we use methods from complex systems to make better AI/ML models?
